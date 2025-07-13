@@ -1,5 +1,3 @@
----
-
 # SET-NU Bus Seat Tracking System
 
 **School of Engineering and Technology, Nagaland University**
