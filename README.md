@@ -20,12 +20,12 @@ This project is designed to provide a seamless, transparent, and efficient seat 
 
 ## 🚀 **Features**
 
-✅ Real-time seat availability tracking
-✅ Live booking with instant database updates
-✅ Overall and per-bus occupancy statistics
-✅ Clean, responsive UI with intuitive seat layouts
-✅ Separate seat status for each bus (booked or available)
-✅ Automatic data sync across all users
+* Real-time seat availability tracking
+* Live booking with instant database updates
+* Overall and per-bus occupancy statistics
+* Clean, responsive UI with intuitive seat layouts
+* Separate seat status for each bus (booked or available)
+* Automatic data sync across all users
 
 ---
 
