@@ -40,3 +40,11 @@ This project is built with:
 * 💨 **Tailwind CSS** – utility-first styling for rapid UI design
 
 ---
+
+## 🔗 Live Demo
+
+[View Portfolio Website Live](https://set-nu-bus-seat-tracking-system.vercel.app/)
+
+> See the portfolio in action – because reading about it isn’t half as fun as experiencing it.
+
+---
