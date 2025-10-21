@@ -16,6 +16,7 @@ A real-time seat tracking and booking system built for clarity, speed, and simpl
 
 * ⚡ [Vite](https://vitejs.dev/) – Blazing-fast development server and build tool
 * ⚛️ [React](https://reactjs.org/) – Component-based UI development
+* 🟦 [TypeScript](https://www.typescriptlang.org/) – Typed superset of JavaScript for safer, scalable code  
 * 🎨 [shadcn/ui](https://ui.shadcn.com/) – Elegant and accessible UI components
 * 💨 [Tailwind CSS](https://tailwindcss.com/) – Utility-first styling
 * 🗄️ [Supabase](https://supabase.com/) – Backend services (Database and Real-time updates)
